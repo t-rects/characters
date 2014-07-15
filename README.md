@@ -1,7 +1,8 @@
 characters
 ==========
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/0PbNmFvmm_o?list=UUZcuIWPmrTWfz33KQyVbtOg" frameborder="0" allowfullscreen></iframe>
+See characters in action:
+[https://www.youtube.com/channel/UCZcuIWPmrTWfz33KQyVbtOg/videos]
 
 The T-RECTS characters may be freely used, even commercially, provided that the following conditions are met:
 

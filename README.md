@@ -1,6 +1,8 @@
 characters
 ==========
 
+<iframe width="640" height="360" src="//www.youtube.com/embed/0PbNmFvmm_o?list=UUZcuIWPmrTWfz33KQyVbtOg" frameborder="0" allowfullscreen></iframe>
+
 The T-RECTS characters may be freely used, even commercially, provided that the following conditions are met:
 
 1. The characters and the context in which they are use may not be morally objectionable.
